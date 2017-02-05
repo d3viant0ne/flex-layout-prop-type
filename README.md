@@ -3,13 +3,14 @@
 
 ### Environment
 
-*OS:* _macOS 10.12.3 (16D32)_
 
-*NodeJS:* _6.9.1_
+**OS:** _macOS 10.12.3 (16D32)_
 
-*Global CLI:* _cli@1.0.0-beta.30_
+**NodeJS:** _6.9.1_
 
-*Project CLI:* _@angular/cli@1.0.0-beta.30_
+**Global CLI:** _cli@1.0.0-beta.30_
+
+**Project CLI:** _@angular/cli@1.0.0-beta.30_
 
 
 ### Reproduce
